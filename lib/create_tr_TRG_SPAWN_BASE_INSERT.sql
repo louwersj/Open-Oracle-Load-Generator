@@ -1,5 +1,5 @@
 /* NAME:
- * create_TRG_SPAWN_BASE_INSERT.sql
+ * create_tr_TRG_SPAWN_BASE_INSERT.sql
  *
  * DESC:
  * create trigger TRG_SPAWN_BASE_INSERT
